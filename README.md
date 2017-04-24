@@ -26,3 +26,7 @@ ShareViewController *svc = [ShareViewController new];
 * Apple LLVM compiler
 * iOS 8.0 or higher
 * ARC
+
+## Contact
+如果你发现bug，please pull reqeust me 
+如果你有更好的改进，please pull reqeust me 
