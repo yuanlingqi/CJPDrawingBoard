@@ -8,6 +8,13 @@
 提供分享图片到本地应用功能；
 
 纯CAShapeLayer实现，编辑涂鸦流畅，内存占用少；
+
+## Demo Code
+ShareViewController *svc = [ShareViewController new];
+svc.shareImg = [self screenshot];
+svc.title = @"编辑";
+[self.navigationController pushViewController:svc animated:YES];
+
 ## CocoaPods
 暂不支持
 
