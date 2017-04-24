@@ -9,4 +9,4 @@
 
 纯CAShapeLayer实现，编辑涂鸦流畅，内存占用少；
 
-
+![image](https://github.com/yuanlingqi/CJPDrawingBoard/blob/master/%E6%B6%82%E9%B8%A6.gif)
