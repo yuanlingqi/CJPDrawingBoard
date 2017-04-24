@@ -13,3 +13,9 @@
 
 ## ScreenShot
 ![image](https://github.com/yuanlingqi/CJPDrawingBoard/blob/master/demo.gif)
+
+## Requirements
+* Xcode 8.3.2 or higher
+* Apple LLVM compiler
+* iOS 8.0 or higher
+* ARC
