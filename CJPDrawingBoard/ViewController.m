@@ -40,6 +40,7 @@
 - (void)share{
     ShareViewController *svc = [ShareViewController new];
     svc.shareImg = [self screenshot];
+    svc.title = @"编辑";
     [self.navigationController pushViewController:svc animated:YES];
 }
 
