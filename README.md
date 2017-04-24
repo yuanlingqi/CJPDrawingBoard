@@ -11,9 +11,9 @@
 
 ## Demo Code
 ShareViewController *svc = [ShareViewController new];
-svc.shareImg = [self screenshot];
-svc.title = @"编辑";
-[self.navigationController pushViewController:svc animated:YES];
+<br>svc.shareImg = [self screenshot];
+<br>svc.title = @"编辑";
+<br>[self.navigationController pushViewController:svc animated:YES];
 
 ## CocoaPods
 暂不支持
