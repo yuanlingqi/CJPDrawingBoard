@@ -12,5 +12,4 @@
 暂不支持
 
 ## ScreenShot
-![image][image-1]
-![image](https://github.com/yuanlingqi/CJPDrawingBoard/blob/master/%E6%B6%82%E9%B8%A6.gif)
+![image](https://github.com/yuanlingqi/CJPDrawingBoard/blob/master/demo.gif)
